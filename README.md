@@ -161,3 +161,4 @@ http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hw
 http://live.redtraffic.xyz/bigdick.m3u8?streamType=live
 #EXTINF:-1,INT: BRUNETTE
 http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1,INT: GAY
