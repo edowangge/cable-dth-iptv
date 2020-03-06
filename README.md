@@ -191,9 +191,10 @@ http://51.15.8.16:8081/ind1live/starsportsselect1/playlist.m3u8
 http://51.15.8.16:8081/ind1live/starsportsselect2/playlist.m3u8
 #EXTINF:-1,IN: STAR SPORTS 2
 http://51.15.8.16:8081/ind1live/starsports2/playlist.m3u8
-#EXTINF:-1,IN: SONY TEN 2 HD
-http://51.15.8.16:8081/lolind2/sonyten2hd/playlist.m3u8
+#EXTINF:-1,IN: SONY TEN 2 
+http://51.15.8.16:8081/lolind2/sonyten2/playlist.m3u8
 #EXTINF:-1,IN: SONY TEN 3
 http://51.15.8.16:8081/lolind2/sonyten3/playlist.m3u8
 #EXTINF:-1,IN: D SPORTS
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1,UAE: SPORTS MAX
