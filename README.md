@@ -227,3 +227,4 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,IN: NAT GEO WILD
 http://51.15.8.16:8081/lolind2/pogo/playlist.m3u8
+#EXTINF:-1,IN: NAT GEO WILD
