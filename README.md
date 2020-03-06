@@ -37,3 +37,4 @@ http://51.15.8.16:8081/lolind2/colorstvuk/playlist.m3u8
 http://51.15.8.16:8081/lolind2/sonytvuk/playlist.m3u8
 #EXTINF:-1,IN: SONY HD
 http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
+#EXTINF:-1,IN: SONY SAB HD
