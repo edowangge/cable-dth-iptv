@@ -221,3 +221,4 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 https://cdn.jp.jpnettv.live/jptv/National_geographic/chunklist_w1310243407.m3u8
 #EXTINF:-1,ASIA: HISTORY
 https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
+#EXTINF:-1,ASIA: CGTN DOCUMENTARY
