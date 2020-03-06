@@ -173,3 +173,4 @@ http://bit.ly/37nMwWw
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
 #EXTINF:-1,USA: BRAZZERS TV
 http://185.180.12.90:8080/BRAZZERS/index.m3u8?token=test
+#EXTINF:-1,INT: HUSTLER HD
