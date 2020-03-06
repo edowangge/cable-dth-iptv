@@ -224,3 +224,4 @@ https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
 #EXTINF:-1,ASIA: CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1,IN: NAT GEO WILD
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
