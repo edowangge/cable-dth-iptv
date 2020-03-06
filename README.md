@@ -62,3 +62,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvsduk/index.m3
 #EXTINF:-1,CA: ZEE TV
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/canadahd/index.m3u8
 #EXTINF:-1,APAC: ZEE TV
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/apacsea/index.m3u8
