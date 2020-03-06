@@ -241,3 +241,4 @@ http://51.15.8.16:8081/ind1live/starmovies/playlist.m3u8
 http://51.15.8.16:8081/ind1live/zeecinema/playlist.m3u8
 #EXTINF:-1,UK: ZEE CINEMA
 http://51.15.8.16:8081/ind1live/zeecinemauk/playlist.m3u8
+#EXTINF:-1,ASIA: HBO
