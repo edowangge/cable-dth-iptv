@@ -97,4 +97,5 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/livingfoodz/index.m3u8
 #EXTINF:-1,IN: ZEE NEWS
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
-#EXTINF:-1,UK: ZEE BISNUESS
+#EXTINF:-1,UK: ZEE BUSINESS
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebusiness/index.m3u8
