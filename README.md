@@ -41,3 +41,4 @@ http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
 http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
 #EXTINF:-1,IN: &TV HD
 http://45.120.188.76:8080/0.ts
+#EXTINF:-1,US: &TV HD
