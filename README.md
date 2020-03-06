@@ -244,3 +244,4 @@ http://51.15.8.16:8081/ind1live/zeecinemauk/playlist.m3u8
 #EXTINF:-1,ASIA: HBO
 http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 #EXTINF:-1,UK: MGM
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
