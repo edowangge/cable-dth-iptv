@@ -171,3 +171,4 @@ http://live.redtraffic.xyz/pornstar.m3u8
 http://bit.ly/37nMwWw
 #EXTINF:-1,INT: BSX24
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
+#EXTINF:-1,USA: BRAZZERS TV
