@@ -84,3 +84,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemausa/index.m3
 #EXTINF:-1,UK: ZEE CINEMA
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/cinemauk/index.m3u8
 #EXTINF:-1,ME: ZEE CINEMA
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecinemame/index.m3u8
