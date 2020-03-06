@@ -107,5 +107,6 @@ http://51.15.8.16:8081/lolind2/sonymix/playlist.m3u8
 http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
 #EXTINF:-1,USA: VH1
 http://185.59.223.82:8080/vh1/mpegts
-#EXTINF:-1,IN: MTV
+#EXTINF:-1,USA: MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,IN: 9XO
