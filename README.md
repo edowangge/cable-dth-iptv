@@ -35,3 +35,4 @@ http://84.22.33.254/unicast.id/index.m3u8
 http://51.15.8.16:8081/lolind2/colorstvuk/playlist.m3u8
 #EXTINF:-1,UK: SONY TV
 http://51.15.8.16:8081/lolind2/sonytvuk/playlist.m3u8
+#EXTINF:-1,IN: SONY HD
