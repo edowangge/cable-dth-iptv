@@ -106,3 +106,4 @@ http://51.15.8.16:8081/lolind2/sonymix/playlist.m3u8
 #EXTINF:-1,IN: ZOOM TV
 http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
 #EXTINF:-1,USA: VH1
+http://185.59.223.82:8080/vh1/mpegts
