@@ -147,3 +147,4 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1,JP: NHK WORLD
 http://210.210.155.66/h/h23/01.m3u8
+#EXTINF:-1,ASIA: CNA
