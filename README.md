@@ -114,3 +114,4 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 #EXTINF:-1,USA: CARTOON NETWORK
 http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
 #EXTINF:-1,TW: BABY FIRST
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
