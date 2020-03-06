@@ -131,3 +131,4 @@ https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1,IN: ZEE NEWS
 http://51.15.8.16:8081/ind1live/zeenews/playlist.m3u8
+#EXTINF:-1,ASIA: CNA
