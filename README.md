@@ -79,3 +79,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
 #EXTINF:-1,IN: ZEE CINEMA HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
+#EXTINF:-1,UK: ZEE CINEMA
