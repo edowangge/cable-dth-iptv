@@ -252,3 +252,4 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1,ASIA: BOLLYWOOD TV
 http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
 #EXTINF:-1,UK: COLORS CINEPLEX
+http://51.15.8.16:8081/lolind2/rishteycineplexuk/chunks.m3u8
