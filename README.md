@@ -75,3 +75,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflix/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zingusa/index.m3u8
 #EXTINF:-1,IN: & PICTURES HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
+#EXTINF:-1,IN: ZEE ACTION
