@@ -208,3 +208,4 @@ http://185.180.12.90:8080/DISCOVERYSCIENCE/index.m3u8?token=test
 #EXTINF:-1,ASIA: HISTORY 2
 https://tv4.chang55.com/live2/tv4ch19.stream/chunks.m3u8
 #EXTINF:-1,APAC: DISCOVERY ASIA
+https://tv4.chang55.com/live2/tv4ch16.stream/chunks.m3u8
