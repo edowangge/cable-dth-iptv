@@ -31,6 +31,7 @@ http://51.15.8.16:8081/ind1live/starplus/playlist.m3u8
 http://av.xemtivinet.net:8080/hls/axn/index.m3u8
 #EXTINF:-1,RU: ID
 http://84.22.33.254/unicast.id/index.m3u8
-#EXTINF:-1,UK: COLORS
+#EXTINF:-1,UK: COLORS TV
 http://51.15.8.16:8081/lolind2/colorstvuk/playlist.m3u8
 #EXTINF:-1,UK: SONY TV
+http://51.15.8.16:8081/lolind2/sonytvuk/playlist.m3u8
