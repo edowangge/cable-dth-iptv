@@ -209,4 +209,5 @@ http://185.180.12.90:8080/DISCOVERYSCIENCE/index.m3u8?token=test
 https://tv4.chang55.com/live2/tv4ch19.stream/chunks.m3u8
 #EXTINF:-1,APAC: DISCOVERY ASIA
 https://tv4.chang55.com/live2/tv4ch16.stream/chunks.m3u8
-#EXTINF:-1,UAE: NAT GEO PEOPLE
+#EXTINF:-1,ASIA: NAT GEO PEOPLE
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
