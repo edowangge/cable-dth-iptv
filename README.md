@@ -110,3 +110,4 @@ http://185.59.223.82:8080/vh1/mpegts
 #EXTINF:-1,USA: MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,IN: 9XO
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
