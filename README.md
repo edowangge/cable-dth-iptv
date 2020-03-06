@@ -51,3 +51,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF:-1,IN: ZEE TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
+#EXTINF:-1,IN: ZEE TV
