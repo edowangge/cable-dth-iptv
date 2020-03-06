@@ -181,3 +181,4 @@ http://185.180.12.90:8080/DORCEL/index.m3u8?token=test
 https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
 #EXTINF:-1,ASIA: TURE SPORTS
 https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
+#EXTINF:-1,IN: SONY TEN 2 HD
