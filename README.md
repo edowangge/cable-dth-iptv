@@ -65,4 +65,5 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/canadahd/index.m3u
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/apacsea/index.m3u8
 #EXTINF:-1,USA: ZEE SMILE
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/smileusa/index.m3u8
-#EXTINF:-1,UK: Zee TV
+#EXTINF:-1,IN: ZEE CAFE
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafesd/index.m3u8
