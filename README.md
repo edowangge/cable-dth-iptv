@@ -138,3 +138,4 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1,IN: NEWS 18 ASSAM
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
 #EXTINF:-1,IN: NDTV INDIA
+https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
