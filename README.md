@@ -254,3 +254,4 @@ http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
 #EXTINF:-1,UK: COLORS CINEPLEX
 http://51.15.8.16:8081/lolind2/rishteycineplexuk/chunks.m3u8
 #EXTINF:-1,UAE: MBC BOLLYWOOD
+http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
