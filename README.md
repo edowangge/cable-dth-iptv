@@ -229,3 +229,4 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 http://51.15.8.16:8081/lolind2/pogo/playlist.m3u8
 #EXTINF:-1,IN: NAT GEO WILD HD
 http://itvago.com/NatGeoWildHD/video.m3u8?token=korolencoanatolkorolenco85
+#EXTINF:-1,ASIA: HBO
