@@ -122,3 +122,4 @@ https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
 #EXTINF:-1,USA: DISNEY CHANNEL
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ASIA: CNN
+https://tv4.chang55.com/live2/tv4ch27.stream/chunks.m3u8
