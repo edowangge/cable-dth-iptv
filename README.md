@@ -222,3 +222,4 @@ https://cdn.jp.jpnettv.live/jptv/National_geographic/chunklist_w1310243407.m3u8
 #EXTINF:-1,ASIA: HISTORY
 https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
 #EXTINF:-1,ASIA: CGTN DOCUMENTARY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
