@@ -142,3 +142,4 @@ https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
 #EXTINF:-1,JP: NHK WORLD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1,AU: FOX SPORTS NEWS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
