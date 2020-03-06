@@ -108,3 +108,4 @@ http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
 #EXTINF:-1,USA: VH1
 http://185.59.223.82:8080/vh1/mpegts
 #EXTINF:-1,IN: MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
