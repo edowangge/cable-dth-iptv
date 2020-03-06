@@ -164,3 +164,4 @@ http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1,INT: GAY
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1,INT: TEEN
+http://live.redtraffic.xyz/teen.m3u8
