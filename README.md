@@ -46,3 +46,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhdusa/index.m
 #EXTINF:-1,MAL: AXN 
 http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1,IN: &TV
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
