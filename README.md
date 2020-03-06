@@ -43,4 +43,5 @@ http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
 http://45.120.188.76:8080/0.ts
 #EXTINF:-1,USA: &TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhdusa/index.m3u8
-#EXTINF:-1,IN: &TV 
+#EXTINF:-1,MAL: AXN 
+http://210.210.155.66/h/h141/01.m3u8
