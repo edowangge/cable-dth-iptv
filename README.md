@@ -116,3 +116,4 @@ http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
 #EXTINF:-1,TW: BABY FIRST
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1,UAE: BOOMARANG
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
