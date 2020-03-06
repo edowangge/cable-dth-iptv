@@ -177,3 +177,4 @@ http://185.180.12.90:8080/BRAZZERS/index.m3u8?token=test
 http://185.180.12.90:8080/HUSTLER/index.m3u8?token=test
 #EXTINF:-1,INT: DORCEL TV
 http://185.180.12.90:8080/DORCEL/index.m3u8?token=test
+#EXTINF:-1,IN: SONY SIX
