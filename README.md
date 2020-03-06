@@ -149,3 +149,4 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 http://210.210.155.66/h/h23/01.m3u8
 #EXTINF:-1,ASIA: CNA
 http://210.210.155.66/h/h29/02.m3u8
+#EXTINF:-1,INT: PLAY BOY TV
