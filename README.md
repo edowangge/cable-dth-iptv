@@ -249,3 +249,4 @@ https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_142
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1,IN: STAR GOLD HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:-1,ASIA: BOLLYWOOD TV
