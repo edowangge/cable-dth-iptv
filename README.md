@@ -105,3 +105,4 @@ https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 http://51.15.8.16:8081/lolind2/sonymix/playlist.m3u8
 #EXTINF:-1,IN: ZOOM TV
 http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
+#EXTINF:-1,USA: VH1
