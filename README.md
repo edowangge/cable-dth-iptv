@@ -211,3 +211,4 @@ https://tv4.chang55.com/live2/tv4ch19.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch16.stream/chunks.m3u8
 #EXTINF:-1,ASIA: NAT GEO PEOPLE
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+#EXTINF:-1,UAE: HISTORY 2 
