@@ -155,3 +155,4 @@ http://62.203.143.51:9981/play/PlayyTV
 http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
 #EXTINF:-1,UK: VUNES
 http://209.126.102.141/FQVbwkwBzMaUy9v3/lamvtv/get.php?get=live&url=aHR0cDovLzIzLjIzNy4zNi45ODoyNTQ2MS9saXZlL0FEVUxUT1MtTEFNVFYvbG5tTXd4akJ2cy8xODUubTN1OA==&type=playlist.m3u8
+#EXTINF:-1,INT: HUSTLER HD
