@@ -39,4 +39,5 @@ http://51.15.8.16:8081/lolind2/sonytvuk/playlist.m3u8
 http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
 #EXTINF:-1,IN: SONY SAB HD
 http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
-#EXTINF:-1,IN: COLORS HD
+#EXTINF:-1,IN: &TV HD
+http://45.120.188.76:8080/0.ts
