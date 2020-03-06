@@ -19,3 +19,4 @@ http://51.15.8.16:8081/ind1live/sonytv/playlist.m3u8
 http://51.15.8.16:8081/ind1live/starplusuk/playlist.m3u8
 #EXTINF:-1,UK: ZEE TV
 http://51.15.8.16:8081/ind1live/zeetvuk/playlist.m3u8
+#EXTINF:-1,IN: ZEE TV HD
