@@ -205,3 +205,4 @@ http://51.15.8.16:8081/lolind2/sonysixhd/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1,ASIA: DISCOVERY SCIENCE
 http://185.180.12.90:8080/DISCOVERYSCIENCE/index.m3u8?token=test
+#EXTINF:-1,ASIA: HISTORY 2
