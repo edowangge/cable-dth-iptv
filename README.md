@@ -200,3 +200,4 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1,UAE: SPORTS MAX
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 #EXTINF:-1,IN: SONY SIX HD
+http://51.15.8.16:8081/lolind2/sonysixhd/playlist.m3u8
