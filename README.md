@@ -215,3 +215,4 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1,IN: FOOD FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,PARIS: FASHION TV
