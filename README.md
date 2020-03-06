@@ -237,3 +237,4 @@ http://51.15.8.16:8081/ind1live/stargolduk/playlist.m3u8
 http://51.15.8.16:8081/ind1live/stargold/playlist.m3u8
 #EXTINF:-1,IN: STAR MOVIES
 http://51.15.8.16:8081/ind1live/starmovies/playlist.m3u8
+#EXTINF:-1,IN: ZEE CINEMA
