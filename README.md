@@ -230,3 +230,4 @@ http://51.15.8.16:8081/lolind2/pogo/playlist.m3u8
 #EXTINF:-1,IN: NAT GEO WILD HD
 http://itvago.com/NatGeoWildHD/video.m3u8?token=korolencoanatolkorolenco85
 #EXTINF:-1,ASIA: HBO
+https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
