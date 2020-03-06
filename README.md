@@ -69,3 +69,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/smileusa/index.m3u
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeecafesd/index.m3u8
 #EXTINF:-1,IN: & PRIVE HD 
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
+#EXTINF:-1,IN: & FLIX
