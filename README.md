@@ -102,3 +102,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebusiness/index.
 #EXTINF:-1,IN: ZING
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:-1,IN: SONY MIX
+http://51.15.8.16:8081/lolind2/sonymix/playlist.m3u8
