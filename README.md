@@ -25,3 +25,4 @@ http://51.15.8.16:8081/ind1live/zeetvhd/playlist.m3u8
 http://51.15.8.16:8081/ind1live/zeetv/playlist.m3u8
 #EXTINF:-1,IN: STAR BHARAT HD
 http://51.15.8.16:8081/ind1live/starbharat/playlist.m3u8
+#EXTINF:-1,IN: STAR PLUS 
