@@ -29,3 +29,4 @@ http://51.15.8.16:8081/ind1live/starbharat/playlist.m3u8
 http://51.15.8.16:8081/ind1live/starplus/playlist.m3u8
 #EXTINF:-1,MAL: AXN
 http://av.xemtivinet.net:8080/hls/axn/index.m3u8
+#EXTINF:-1,UK: ID
