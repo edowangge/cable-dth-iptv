@@ -256,3 +256,4 @@ http://51.15.8.16:8081/lolind2/rishteycineplexuk/chunks.m3u8
 #EXTINF:-1,UAE: MBC BOLLYWOOD
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1,UK: SONY MAX 2 
+http://51.15.8.16:8081/lolind2/sonymax2/playlist.m3u8
