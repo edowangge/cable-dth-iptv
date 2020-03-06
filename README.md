@@ -6,3 +6,4 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1,ME: STAR BHARAT
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1,ME: STAR PLUS
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
