@@ -167,3 +167,4 @@ http://cdn.adultiptv.net/gay.m3u8
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1,INT: PORN STAR 
 http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1,IN: HUSTLER HD
