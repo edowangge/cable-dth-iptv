@@ -175,3 +175,4 @@ http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
 http://185.180.12.90:8080/BRAZZERS/index.m3u8?token=test
 #EXTINF:-1,INT: HUSTLER HD
 http://185.180.12.90:8080/HUSTLER/index.m3u8?token=test
+#EXTINF:-1,INT: DORCEL TV
