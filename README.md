@@ -191,3 +191,4 @@ http://51.15.8.16:8081/ind1live/starsportsselect1/playlist.m3u8
 http://51.15.8.16:8081/ind1live/starsportsselect2/playlist.m3u8
 #EXTINF:-1,IN: STAR SPORTS 2
 http://51.15.8.16:8081/ind1live/starsports2/playlist.m3u8
+#EXTINF:-1,IN: SONY TEN 2 HD
