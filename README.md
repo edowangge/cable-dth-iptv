@@ -157,3 +157,4 @@ http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.
 http://209.126.102.141/FQVbwkwBzMaUy9v3/lamvtv/get.php?get=live&url=aHR0cDovLzIzLjIzNy4zNi45ODoyNTQ2MS9saXZlL0FEVUxUT1MtTEFNVFYvbG5tTXd4akJ2cy8xODUubTN1OA==&type=playlist.m3u8
 #EXTINF:-1,INT: HUSTLER HD
 http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hwVv4Mb5yarbaGHAIfET&uid=491
+#EXTINF:-1,INT: BIG DICK
