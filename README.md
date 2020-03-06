@@ -117,11 +117,12 @@ http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1,UAE: BOOMARANG
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
-#EXTINF:-1,ASIA: CARTOON NETWORK HD
+#EXTINF:-1,INT: CARTOON NETWORK HD
 https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
 #EXTINF:-1,USA: DISNEY CHANNEL
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ASIA: CNN
+#EXTINF:-1,INT: CNN
 https://tv4.chang55.com/live2/tv4ch27.stream/chunks.m3u8
 #EXTINF:-1,IN: CBSN HD
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,INT: BBC NEWS
