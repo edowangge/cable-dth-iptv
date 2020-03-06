@@ -168,3 +168,4 @@ http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1,INT: PORN STAR 
 http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1,IN: HUSTLER HD
+http://bit.ly/37nMwWw
