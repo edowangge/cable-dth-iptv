@@ -126,3 +126,4 @@ https://tv4.chang55.com/live2/tv4ch27.stream/chunks.m3u8
 #EXTINF:-1,IN: CBSN HD
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1,INT: BBC NEWS
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
