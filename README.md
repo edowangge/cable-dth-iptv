@@ -133,3 +133,4 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 http://51.15.8.16:8081/ind1live/zeenews/playlist.m3u8
 #EXTINF:-1,ASIA: CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,UK: CGTN
