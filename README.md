@@ -219,3 +219,4 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b130
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1,ASIA: NAT GEO
 https://cdn.jp.jpnettv.live/jptv/National_geographic/chunklist_w1310243407.m3u8
+#EXTINF:-1,ASIA: HISTORY
