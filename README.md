@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,IN: STAR PLUS HD
 http://51.15.8.16:8081/ind1live/starplususa/playlist.m3u8
-#EXTINF:-1,SG: ZEE TV
+#EXTINF:-1,APAC: ZEE TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1,ME: STAR BHARAT
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
@@ -41,5 +41,5 @@ http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
 http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
 #EXTINF:-1,IN: &TV HD
 http://45.120.188.76:8080/0.ts
-#EXTINF:-1,US: &TV HD
+#EXTINF:-1,USA: &TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhdusa/index.m3u8
