@@ -91,3 +91,4 @@ http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/live/amlst:showbox_,b180,b320,b640,b860,b1400,.smil/playlist.m3u8
 #EXTINF:-1,IN: BBC WORLD NEWS
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bbcworldnews/index.m3u8
+#EXTINF:-1,IN: WION
