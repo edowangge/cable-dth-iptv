@@ -184,3 +184,4 @@ https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
 #EXTINF:-1,IN: SONY TEN 2 HD
 http://51.15.8.16:8081/lolind2/sonyten2hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgMTE6MjM6MzcgQU0maGFzaF92YWx1ZT1vM1NPQzhMZFhtUHo0UUZ1Y1lWRWNRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,IN: STAR SPORTS 1
+http://51.15.8.16:8081/ind1live/starsports1hindi/playlist.m3u8
