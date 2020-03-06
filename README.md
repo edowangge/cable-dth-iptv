@@ -137,3 +137,4 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1,IN: NEWS 18 ASSAM
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
+#EXTINF:-1,IN: NDTV INDIA
