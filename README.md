@@ -151,5 +151,6 @@ http://210.210.155.66/h/h23/01.m3u8
 http://210.210.155.66/h/h29/02.m3u8
 #EXTINF:-1,INT: PLAY BOY TV
 http://62.203.143.51:9981/play/PlayyTV
-#EXTINF:-1,INT: SEX TV
+#EXTINF:-1,INT: RAMPAN TV
 http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
+#EXTINF:-1,UK: VUNES
