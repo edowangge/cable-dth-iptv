@@ -92,3 +92,4 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/live/amlst:showbox
 #EXTINF:-1,IN: BBC WORLD NEWS
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bbcworldnews/index.m3u8
 #EXTINF:-1,IN: WION
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8
