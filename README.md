@@ -247,3 +247,4 @@ http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1,APAC: ZEE CINEMA
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1,IN: STAR GOLD HD
