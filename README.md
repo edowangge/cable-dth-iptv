@@ -407,3 +407,4 @@ https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in.m3u8
 https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8
 #EXTINF:-1,IN: MASTIII
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
+#EXTINF:-1,IN: ZOOM TV
