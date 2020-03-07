@@ -485,3 +485,4 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV
 https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/chunklist_w1438770647_b256000.m3u8
 #EXTINF:-1,IN: JAN TV
 http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
+#EXTINF:-1,IN: KHABARAIN ABHI TAK
