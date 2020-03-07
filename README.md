@@ -434,3 +434,4 @@ https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
 #EXTINF:-1,IN: IBC24
 https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8
 #EXTINF:-1,IN: TOTAL TV
+https://m-c17-j2apps.s.llnwi.net/hls/0131.TotalTV.in.m3u8
