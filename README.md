@@ -294,3 +294,4 @@ http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: ZEE ACTION (VPN)
 http://216.144.250.174/Zee_ActIon_HD/index.m3u8
 #EXTINF:-1,IN: STAR GOLD HD (VPN)
+http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
