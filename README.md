@@ -400,3 +400,4 @@ https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
 #EXTINF:-1,IN: DISHUM
 https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8
 #EXTINF:-1,IN: ANJAN TV
+https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8
