@@ -431,3 +431,4 @@ https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in.m3u8
 https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8
 #EXTINF:-1,IN: JANTA TV
 https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
+#EXTINF:-1,IN: IBC24
