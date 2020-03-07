@@ -281,3 +281,4 @@ http://fr-c.movply.stream/hls/Colors.m3u8
 http://109.169.56.170/hls/lifeok.m3u8
 #EXTINF:-1,IN: DD 1
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
+#EXTINF:-1,IN: THE Q INDIA
