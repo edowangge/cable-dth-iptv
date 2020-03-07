@@ -273,3 +273,4 @@ http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
 http://216.144.250.174/S0ny_Sab_HD/playlist.m3u8
 #EXTINF:-1,UK: STAR PLUS (VPN)
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN/APAC: STAR PLUS HD/SD
