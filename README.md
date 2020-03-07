@@ -384,3 +384,4 @@ https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
 #EXTINF:-1,IN: MANORANJAN MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1,IN: MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
