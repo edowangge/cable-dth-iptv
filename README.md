@@ -399,3 +399,4 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
 #EXTINF:-1,IN: DISHUM
 https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8
+#EXTINF:-1,IN: ANJAN TV
