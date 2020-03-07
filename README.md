@@ -479,3 +479,4 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8
 https://vidcdn.vidgyor.com/at-origin/desktoplive/at-origin/live3/chunks.m3u8
 #EXTINF:-1,IN: TAZ
 https://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live2/chunks.m3u8
+#EXTINF:-1,IN: NDTV INDIA
