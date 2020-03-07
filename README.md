@@ -343,3 +343,4 @@ http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p1.m3u8
 #EXTINF:-1,IN: TLC HD
 http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
+#EXTINF:-1,ME: NAT GEO
