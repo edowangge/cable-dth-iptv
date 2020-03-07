@@ -286,3 +286,4 @@ https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1,RU: BOLLYWOOD HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,INT: XXX TV
+http://stream:starperkish@85.187.232.3:8000/udp/239.100.100.47:8888
