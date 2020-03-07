@@ -405,3 +405,4 @@ https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8
 https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in.m3u8
 #EXTINF:-1,IN: SHOW BOX
 https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8
+#EXTINF:-1,IN: MASTIII
