@@ -227,7 +227,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,IN: NAT GEO WILD
 http://51.15.8.16:8081/lolind2/pogo/playlist.m3u8
-#EXTINF:-1,IN: NAT GEO WILD HD
+#EXTINF:-1,IN: NAT GEO WILD HD (VPN)
 http://itvago.com/NatGeoWildHD/video.m3u8?token=korolencoanatolkorolenco85
 #EXTINF:-1,ASIA: HBO
 https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
@@ -269,3 +269,4 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
 #EXTINF:-1,IN: SONY TV HD (VPN)
 http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
+#EXTINF:-1,IN: SONY SAB HD (VPN)
