@@ -418,3 +418,4 @@ https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
 #EXTINF:-1,IN: INDIA TV
 https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
 #EXTINF:-1,IN: NEWS NATION
+https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
