@@ -408,3 +408,4 @@ https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8
 #EXTINF:-1,IN: MASTIII
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
 #EXTINF:-1,IN: ZOOM TV
+https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8
