@@ -320,3 +320,4 @@ http://livecdnh1.tvanywhere.ae/hls/zoom/01.m3u8
 #EXTINF:-1,IN: MUSIC INDIA
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1,IN: ZING
+http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
