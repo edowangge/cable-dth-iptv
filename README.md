@@ -436,3 +436,4 @@ https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8
 #EXTINF:-1,IN: TOTAL TV
 https://m-c17-j2apps.s.llnwi.net/hls/0131.TotalTV.in.m3u8
 #EXTINF:-1,IN: SAMAY
+https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
