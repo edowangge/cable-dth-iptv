@@ -323,5 +323,6 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
 #EXTINF:-1,IN: ZING
 http://109.169.56.170/hls/zing.m3u8
-#EXTINF:-1,IN: SONY MIX
+#EXTINF:-1,IN: SONY MIX (VPN)
 http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
+#EXTINF:-1,IN: B4U MUSIC
