@@ -340,3 +340,4 @@ http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8
 #EXTINF:-1,IN: DISCOVERY SCIENCE
 http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
 #EXTINF:-1,IN: ANIMAL PLANET
+http://streamidvo.multitvsolution.in/live/AnimalPlanetHindi-a/p1.m3u8
