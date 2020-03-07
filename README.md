@@ -452,3 +452,4 @@ https://m-c03-j2apps.s.llnwi.net/hls/0777.BansalNews.in.m3u8
 #EXTINF:-1,IN: IBA NEWS NETWORK
 https://m-c03-j2apps.s.llnwi.net/hls/6503.IBANewsNetwork.in.m3u8
 #EXTINF:-1,IN: KASHISH NEWS
+https://m-c03-j2apps.s.llnwi.net/hls/1606.KashishNews.in.m3u8
