@@ -270,3 +270,4 @@ http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
 #EXTINF:-1,IN: SONY TV HD (VPN)
 http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
 #EXTINF:-1,IN: SONY SAB HD (VPN)
+http://216.144.250.174/S0ny_Sab_HD/playlist.m3u8
