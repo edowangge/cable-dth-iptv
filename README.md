@@ -482,3 +482,4 @@ https://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live2/chunks.m3u8
 #EXTINF:-1,IN: NDTV INDIA
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_1@199237/chunks.m3u8
 #EXTINF:-1,IN: NDTV PROFILE
+https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/chunklist_w1438770647_b256000.m3u8
