@@ -439,3 +439,4 @@ https://m-c17-j2apps.s.llnwi.net/hls/0131.TotalTV.in.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
 #EXTINF:-1,IN: ABP NEWS
 https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
+#EXTINF:-1,IN: CVR NEWS
