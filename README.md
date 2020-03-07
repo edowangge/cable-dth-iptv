@@ -298,3 +298,4 @@ http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: SONY MAX HD (VPN)
 http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
 #EXTINF:-1,UK: SONY MAX 2 (VPN)
+http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
