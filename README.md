@@ -328,3 +328,4 @@ http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
 #EXTINF:-1,IN: B4U MUSIC
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1,IN: MASTIII
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
