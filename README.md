@@ -288,3 +288,4 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 #EXTINF:-1,INT: XXX TV
 http://stream:starperkish@85.187.232.3:8000/udp/239.100.100.47:8888
 #EXTINF:-1,ASIA: FX
+http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
