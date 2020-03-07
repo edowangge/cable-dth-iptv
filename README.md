@@ -349,3 +349,4 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
 #EXTINF:-1,ME: NAT GEO WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/01.m3u8
+#EXTINF:-1,IN: ID
