@@ -502,3 +502,4 @@ https://stream.simpaisa.com/pitvlive2/cartoon_240p/chunklist.m3u8
 #EXTINF:-1,USA: HUMRAAZ TV
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 #EXTINF:-1,UK: ARY FAMILY
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8
