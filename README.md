@@ -264,3 +264,4 @@ http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1,IN: ABP NEWS HD
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1,IN: COLORS HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
