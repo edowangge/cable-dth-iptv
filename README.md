@@ -373,3 +373,4 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtaktez.smil/chunklist.m3u8
 #EXTINF:-1,IN: DD SPORTS
 https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in.m3u8
+#EXTINF:-1,IN: FLIMY
