@@ -426,3 +426,4 @@ https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
 #EXTINF:-1,IN: NEWS X
 https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
 #EXTINF:-1,IN: GULISTAN NEWS
+https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in.m3u8
