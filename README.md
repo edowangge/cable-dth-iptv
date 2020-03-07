@@ -473,4 +473,5 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_1.m3u8
 #EXTINF:-1,IN: NDTV 
 https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
- #EXTINF:-1,IN: NEWS 24
+#EXTINF:-1,IN: NEWS 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8
