@@ -345,3 +345,4 @@ http://streamidvo.multitvsolution.in/live/APHDHindi-a/p1.m3u8
 http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
 #EXTINF:-1,ME: NAT GEO
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
+#EXTINF:-1,ME: NAT GEO PEOPLE
