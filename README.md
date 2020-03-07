@@ -492,3 +492,4 @@ http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
 #EXTINF:-1,IN: SURYA NEWS
 http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
 #EXTINF:-1,IN: SWARAJ EXPRESS
+http://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
