@@ -467,3 +467,4 @@ https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
 #EXTINF:-1,IN: AM NEWS
 https://m-c02-j2apps.s.llnwi.net/hls/7010.AMNews.in.m3u8
+#EXTINF:-1,IN: SHEMARRO KIDS
