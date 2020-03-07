@@ -311,3 +311,4 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
 #EXTINF:-1,INT: N TV MOVIES
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+#EXTINF:-1,ME: STAR WORLD HD
