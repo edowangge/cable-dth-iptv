@@ -454,3 +454,4 @@ https://m-c03-j2apps.s.llnwi.net/hls/6503.IBANewsNetwork.in.m3u8
 #EXTINF:-1,IN: KASHISH NEWS
 https://m-c03-j2apps.s.llnwi.net/hls/1606.KashishNews.in.m3u8
 #EXTINF:-1,IN: K NEWS 24X7
+https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8
