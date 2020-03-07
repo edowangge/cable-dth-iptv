@@ -335,3 +335,4 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_828_av-p.m3u8?sd=10&re
 http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p1.m3u8
 #EXTINF:-1,IN: DISCOVERY KIDS
 http://streamidvo.multitvsolution.in//live//DiscoveryKidsHindi-a//p1.m3u8
+#EXTINF:-1,IN: DISCOVERY TURBO
