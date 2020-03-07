@@ -448,3 +448,4 @@ https://m-c20-j2apps.s.llnwi.net/hls/3873.MirrorNow.in.m3u8
 #EXTINF:-1,IN: SADHNA PLUS
 https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
 #EXTINF:-1,IN: BANSAL NEWS
+https://m-c03-j2apps.s.llnwi.net/hls/0777.BansalNews.in.m3u8
