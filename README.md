@@ -292,3 +292,4 @@ http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 #EXTINF:-1,IN: ZEE CINEMA HD (VPN)
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: ZEE ACTION
+http://216.144.250.174/Zee_ActIon_HD/index.m3u8
