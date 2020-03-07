@@ -421,3 +421,4 @@ https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
 #EXTINF:-1,IN: DD NATIONAL
 https://m-c20-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8
+#EXTINF:-1,IN: INDIA NEWS
