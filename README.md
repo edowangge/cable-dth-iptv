@@ -283,3 +283,4 @@ http://109.169.56.170/hls/lifeok.m3u8
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
 #EXTINF:-1,IN: THE Q INDIA
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
+#EXTINF:-1,IN: STAR WORLD
