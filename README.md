@@ -506,3 +506,4 @@ http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 #EXTINF:-1,PK: EXPRESS
 http://stream.tapmad.com:1935/pitvlive2/express3_240p/chunklist.m3u8
 #EXTINF:-1,UK: SUB RANG
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
