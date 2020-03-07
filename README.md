@@ -393,3 +393,4 @@ https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 #EXTINF:-1,IN: MOVIE ZONE
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8
+#EXTINF:-1,IN: EPIC
