@@ -265,6 +265,7 @@ http://103.111.120.46/hls/Colors.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1,IN: COLORS HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1,IN: ZEE TV HD
+#EXTINF:-1,IN: ZEE TV HD (VPN)
 http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
-#EXTINF:-1,IN: SONY TV HD
+#EXTINF:-1,IN: SONY TV HD (VPN)
+http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
