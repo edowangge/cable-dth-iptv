@@ -376,3 +376,4 @@ https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in.m3u8
 #EXTINF:-1,IN: FLIMY
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
 #EXTINF:-1,IN: FIRANGI
+https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
