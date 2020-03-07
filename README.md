@@ -386,3 +386,4 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1,IN: MAHA MOVIE
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1,IN: MULTIPLEX
+https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8
