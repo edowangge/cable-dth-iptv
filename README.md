@@ -496,3 +496,4 @@ http://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
 #EXTINF:-1,IN: TAAZA TV
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L360P/index.m3u8
 #EXTINF:-1,IN: TV 100 NEWS
+http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/media.m3u8
