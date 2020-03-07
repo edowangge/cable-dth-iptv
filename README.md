@@ -327,3 +327,4 @@ http://109.169.56.170/hls/zing.m3u8
 http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
 #EXTINF:-1,IN: B4U MUSIC
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1,IN: MASTIII
