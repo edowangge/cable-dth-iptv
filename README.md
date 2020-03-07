@@ -278,3 +278,4 @@ http://109.169.56.170/hls/starplus.m3u8
 #EXTINF:-1,APAC: COLORS TV 
 http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1,IN: STAR BHARAT
+http://109.169.56.170/hls/lifeok.m3u8
