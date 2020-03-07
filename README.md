@@ -337,3 +337,4 @@ http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p1.m3u8
 http://streamidvo.multitvsolution.in//live//DiscoveryKidsHindi-a//p1.m3u8
 #EXTINF:-1,IN: DISCOVERY TURBO
 http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8
+#EXTINF:-1,IN: DISCOVERY SCIENCE
