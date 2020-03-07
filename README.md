@@ -304,3 +304,4 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 #EXTINF:-1,IN: B4U MOVIES
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1,ME: B4U PLUS
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/03.m3u8
