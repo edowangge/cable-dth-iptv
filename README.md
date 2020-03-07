@@ -471,3 +471,4 @@ https://m-c02-j2apps.s.llnwi.net/hls/7010.AMNews.in.m3u8
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 #EXTINF:-1,IN: REPUBLIC BHARAT
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_1.m3u8
+#EXTINF:-1,IN: NDTV 
