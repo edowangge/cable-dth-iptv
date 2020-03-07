@@ -442,3 +442,4 @@ https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
 #EXTINF:-1,IN: CVR ENGLISH NEWS
 https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
 #EXTINF:-1,IN: TIMES NOW
+https://m-c20-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8
