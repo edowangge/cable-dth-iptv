@@ -331,3 +331,4 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 #EXTINF:-1,IN: DIL SE
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_828_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,IN: DISCOVERY 
