@@ -460,3 +460,4 @@ https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in.m3u8
 #EXTINF:-1,IN: BLOOMBERG
 https://m-c29-j2apps.s.llnwi.net/hls/5656.BloombergQuint.in.m3u8
 #EXTINF:-1,IN: FOOD FOOD
+https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
