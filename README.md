@@ -351,3 +351,4 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/01.m3u8
 #EXTINF:-1,IN: ID
 https://streamidvo.multitvsolution.in/live/Investigation_Discovery-a/p2.m3u8
+#EXTINF:-1,IN: SONY MAX
