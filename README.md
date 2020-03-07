@@ -501,3 +501,4 @@ http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/media.m3u8
 https://stream.simpaisa.com/pitvlive2/cartoon_240p/chunklist.m3u8
 #EXTINF:-1,USA: HUMRAAZ TV
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
+#EXTINF:-1,UK: ARY FAMILY
