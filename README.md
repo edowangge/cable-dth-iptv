@@ -397,3 +397,4 @@ https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
 #EXTINF:-1,IN: DD NEWS
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
+#EXTINF:-1,IN: DISHUM
