@@ -487,3 +487,4 @@ https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.
 http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
 #EXTINF:-1,IN: KHABARAIN ABHI TAK
 https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8
+#EXTINF:-1,IN: SADHNA PLUS
