@@ -277,3 +277,4 @@ http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 http://109.169.56.170/hls/starplus.m3u8
 #EXTINF:-1,APAC: COLORS TV 
 http://fr-c.movply.stream/hls/Colors.m3u8
+#EXTINF:-1,IN: STAR BHARAT
