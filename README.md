@@ -441,3 +441,4 @@ https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
 https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
 #EXTINF:-1,IN: CVR ENGLISH NEWS
 https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
+#EXTINF:-1,IN: TIMES NOW
