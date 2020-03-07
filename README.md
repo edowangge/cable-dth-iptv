@@ -315,3 +315,4 @@ http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
 #EXTINF:-1,ME: STAR MOVIES HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1,IN: ZOOM TV
