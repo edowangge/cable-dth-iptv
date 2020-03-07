@@ -389,3 +389,4 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8
 #EXTINF:-1,IN: MOVIE PLUS
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
+#EXTINF:-1,IN: BOLLYWOOD
