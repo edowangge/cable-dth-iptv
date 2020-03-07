@@ -480,3 +480,4 @@ https://vidcdn.vidgyor.com/at-origin/desktoplive/at-origin/live3/chunks.m3u8
 #EXTINF:-1,IN: TAZ
 https://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live2/chunks.m3u8
 #EXTINF:-1,IN: NDTV INDIA
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_1@199237/chunks.m3u8
