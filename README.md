@@ -113,9 +113,9 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 #EXTINF:-1,USA: CARTOON NETWORK
 http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
-#EXTINF:-1,TW: BABY FIRST
+#EXTINF:-1,INT: BABY FIRST
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1,UAE: BOOMARANG
+#EXTINF:-1,ME: BOOMARANG
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1,INT: CARTOON NETWORK HD
 https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
@@ -141,7 +141,7 @@ https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
 #EXTINF:-1,JP: NHK WORLD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1,AU: FOX SPORTS NEWS
+#EXTINF:-1,ASIA: FOX SPORTS NEWS
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1,IN: DD NEWS
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
@@ -197,7 +197,7 @@ http://51.15.8.16:8081/lolind2/sonyten2/playlist.m3u8
 http://51.15.8.16:8081/lolind2/sonyten3/playlist.m3u8
 #EXTINF:-1,IN: D SPORTS
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1,UAE: SPORTS MAX
+#EXTINF:-1,ME: SPORTS MAX
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 #EXTINF:-1,IN: SONY SIX HD
 http://51.15.8.16:8081/lolind2/sonysixhd/playlist.m3u8
@@ -211,7 +211,7 @@ https://tv4.chang55.com/live2/tv4ch19.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch16.stream/chunks.m3u8
 #EXTINF:-1,ASIA: NAT GEO PEOPLE
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1,UAE: HISTORY 2 
+#EXTINF:-1,ME: HISTORY 2 
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1,IN: FOOD FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
@@ -348,3 +348,4 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
 #EXTINF:-1,ME: NAT GEO PEOPLE
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
 #EXTINF:-1,ME: NAT GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/01.m3u8
