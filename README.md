@@ -513,3 +513,4 @@ http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
 http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
 #EXTINF:-1,PK: DUNYA NEWS
 https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/chunklist.m3u8
+#EXTINF:-1,UK: ARY FAMILY
