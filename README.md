@@ -340,5 +340,6 @@ http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8
 #EXTINF:-1,IN: DISCOVERY SCIENCE
 http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
 #EXTINF:-1,IN: ANIMAL PLANET HD
-http://streamidvo.multitvsolution.in/live/AnimalPlanetHindi-a/p1.m3u8
+http://streamidvo.multitvsolution.in/live/APHDHindi-a/p1.m3u8
 #EXTINF:-1,IN: TLC HD
+http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
