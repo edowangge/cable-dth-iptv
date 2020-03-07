@@ -308,3 +308,4 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/03.m3u8
 #EXTINF:-1,UK: ZEE CLASSIC
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1,ME: MBC BOLLYWOOD
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
