@@ -423,3 +423,4 @@ https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
 https://m-c20-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8
 #EXTINF:-1,IN: INDIA NEWS
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:-1,IN: NEWS X
