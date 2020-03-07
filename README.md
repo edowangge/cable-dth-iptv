@@ -494,3 +494,4 @@ http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
 #EXTINF:-1,IN: SWARAJ EXPRESS
 http://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
 #EXTINF:-1,IN: TAAZA TV
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L360P/index.m3u8
