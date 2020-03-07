@@ -289,4 +289,5 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 http://stream:starperkish@85.187.232.3:8000/udp/239.100.100.47:8888
 #EXTINF:-1,ASIA: FX
 http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
-#EXTINF:-1,IN: STAR WORLD
+#EXTINF:-1,IN: ZEE CINEMA HD (VPN)
+http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
