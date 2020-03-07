@@ -457,3 +457,4 @@ https://m-c03-j2apps.s.llnwi.net/hls/1606.KashishNews.in.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8
 #EXTINF:-1,IN: HINDI KHABAR
 https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in.m3u8
+#EXTINF:-1,IN: BLOOMBERG
