@@ -556,3 +556,4 @@ http://109.169.56.170/hls/starsports1.m3u8?userAgent=
 #EXTINF:-1,IN: STAR PLUS HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1,INT: EROX HD
+http://84.22.33.254/unicast.eroxhd/index.m3u8
