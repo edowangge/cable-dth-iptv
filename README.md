@@ -534,3 +534,4 @@ https://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d2
 #EXTINF:-1,IN: GTV HD
 http://109.169.56.170/hls/gtv.m3u8
 #EXTINF:-1,IN: GTV HD
+http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/chunks.m3u8
