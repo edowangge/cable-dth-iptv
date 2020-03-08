@@ -521,5 +521,6 @@ https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist.m3u8
 https://english.streaming.aljazeera.net/aljazeera/english2/index576.m3u8
 #EXTINF:-1,INT: CBS SPORTS HD
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
-#EXTINF:-1,UK: RTSH SPORTS
+#EXTINF:-1,INT: RTSH SPORTS
 http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL
