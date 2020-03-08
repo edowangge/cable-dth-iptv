@@ -538,3 +538,4 @@ http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/chunks.m3u8
 #EXTINF:-1,IN: SONY TEN 1 HD 
 http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:-1,IN: SONY TEN 3
+http://163.172.85.133:8080/TenS/3/index.m3u8
