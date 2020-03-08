@@ -540,3 +540,4 @@ http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:-1,IN: SONY TEN 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
 #EXTINF:-1,IN: SONY SIX
+http://109.169.56.170/hls/sonysix.m3u8
