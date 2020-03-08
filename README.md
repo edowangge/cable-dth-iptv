@@ -533,3 +533,4 @@ http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 https://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d21dcd.sdp/playlist.m3u8
 #EXTINF:-1,IN: GTV HD
 http://109.169.56.170/hls/gtv.m3u8
+#EXTINF:-1,IN: GTV HD
