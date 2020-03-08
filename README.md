@@ -519,3 +519,4 @@ http://84.22.33.254/unicast.bizarre/index.m3u8
 https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist.m3u8
 #EXTINF:-1,ME: AL JAZEERA
 https://english.streaming.aljazeera.net/aljazeera/english2/index576.m3u8
+#EXTINF:-1,INT: CBS SPORTS
