@@ -525,3 +525,4 @@ https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
 #EXTINF:-1,UK: SKY SPORTS FOOTBALL
 http://95.170.215.120/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1,UK: SKY SPORTS CRICKET
