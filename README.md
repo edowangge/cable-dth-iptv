@@ -530,3 +530,4 @@ http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 #EXTINF:-1,PK: PTV SPORTS 
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 #EXTINF:-1,PK: GEO SPORTS
+https://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d21dcd.sdp/playlist.m3u8
