@@ -558,3 +558,4 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1,INT: EROX HD
 http://84.22.33.254/unicast.eroxhd/index.m3u8
 #EXTINF:-1,IN: INDIA TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
