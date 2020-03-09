@@ -561,3 +561,4 @@ http://84.22.33.254/unicast.eroxhd/index.m3u8
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
 #EXTINF:-1,IN: AAJ TAK
 http://31.14.40.58:8080/AAJTAK_h264/index.m3u8
+#EXTINF:-1,INT: BRAZZERS TV EU
