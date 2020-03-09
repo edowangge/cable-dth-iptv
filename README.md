@@ -171,7 +171,7 @@ http://live.redtraffic.xyz/pornstar.m3u8
 http://bit.ly/37nMwWw
 #EXTINF:-1,INT: BSX24
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
-#EXTINF:-1,UK: BRAZZERS TV
+#EXTINF:-1,INT: BRAZZERS TV EU
 http://185.180.12.90:8080/BRAZZERS/index.m3u8?token=test
 #EXTINF:-1,INT: HUSTLER HD
 http://185.180.12.90:8080/HUSTLER/index.m3u8?token=test
