@@ -565,3 +565,4 @@ http://31.14.40.58:8080/AAJTAK_h264/index.m3u8
 http://188.35.9.26:9031/udp/117m
 #EXTINF:-1,USA: WWE
 http://cdnak10.cast4u.info/channels/3/10803.m3u8 
+#EXTINF:-1,INT: SEXY HOT
