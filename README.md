@@ -571,3 +571,4 @@ http://cdn.miptv.ws:8880/live/787980/787980/900.m3u8
 http://cdn.miptv.ws:8880/live/787980/787980/512.m3u8
 #EXTINF:-1,INT: SEXY HOT
 http://cdn.miptv.ws:8880/live/787980/787980/1052.m3u8
+#EXTINF:-1,IN: INDIA NEWS
