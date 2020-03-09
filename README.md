@@ -568,3 +568,4 @@ http://cdnak10.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1,INT: VUNES
 http://cdn.miptv.ws:8880/787980/787980/900
 #EXTINF:-1,INT: SEXTREME
+http://cdn.miptv.ws:8880/787980/787980/512
