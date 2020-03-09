@@ -171,7 +171,7 @@ http://live.redtraffic.xyz/pornstar.m3u8
 http://bit.ly/37nMwWw
 #EXTINF:-1,INT: BSX24
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
-#EXTINF:-1,USA: BRAZZERS TV
+#EXTINF:-1,UK: BRAZZERS TV
 http://185.180.12.90:8080/BRAZZERS/index.m3u8?token=test
 #EXTINF:-1,INT: HUSTLER HD
 http://185.180.12.90:8080/HUSTLER/index.m3u8?token=test
@@ -259,11 +259,11 @@ http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 http://51.15.8.16:8081/lolind2/sonymax2/playlist.m3u8
 #EXTINF:-1,JKT: HITS 
 http://210.210.155.66/h/h37/index.m3u8
-#EXTINF:-1,APAC: COLORS
+#EXTINF:-1,APAC: COLORS TV
 http://103.111.120.46/hls/Colors.m3u8
 #EXTINF:-1,IN: ABP NEWS HD
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
-#EXTINF:-1,IN: COLORS HD
+#EXTINF:-1,IN: COLORS  TV HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1,IN: ZEE TV HD (VPN)
 http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
@@ -279,7 +279,7 @@ http://109.169.56.170/hls/starplus.m3u8
 http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1,IN: STAR BHARAT
 http://109.169.56.170/hls/lifeok.m3u8
-#EXTINF:-1,IN: DD 1
+#EXTINF:-1,IN: DD NATIONAL
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
 #EXTINF:-1,IN: THE Q INDIA
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
@@ -509,7 +509,7 @@ http://stream.tapmad.com:1935/pitvlive2/express3_240p/chunklist.m3u8
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1,IN: CARTOON NETWORK
 http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
-#EXTINF:-1,PK: BABY TV
+#EXTINF:-1,IN: BABY TV
 http://stream.tapmad.com:1935/pitvlive2/baby_360p/chunklist.m3u8
 #EXTINF:-1,PK: DUNYA NEWS
 https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/chunklist.m3u8
@@ -564,3 +564,4 @@ http://31.14.40.58:8080/AAJTAK_h264/index.m3u8
 #EXTINF:-1,INT: BRAZZERS TV EU
 http://188.35.9.26:9031/udp/117m
 #EXTINF:-1,USA: WWE
+http://cdnak10.cast4u.info/channels/3/10803.m3u8 
