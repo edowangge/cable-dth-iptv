@@ -562,3 +562,4 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV
 #EXTINF:-1,IN: AAJ TAK
 http://31.14.40.58:8080/AAJTAK_h264/index.m3u8
 #EXTINF:-1,INT: BRAZZERS TV EU
+http://188.35.9.26:9031/udp/117m
