@@ -578,3 +578,4 @@ http://178.156.198.68:7612
 #EXTINF:-1,INT: SUPER ONE HD
 http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1,IN: STAR SPORTS 1
+http://103.68.116.50/live/feed1006/index.m3u8
