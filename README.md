@@ -575,3 +575,4 @@ http://cdn.miptv.ws:8880/live/787980/787980/1052.m3u8
 http://streamidvo.multitvsolution.in//live//IndiaNews-a//p2.m3u8
 #EXTINF:-1,UK: DISCOVERY SHOWCASE HD
 http://178.156.198.68:7612
+#EXTINF:-1,INT: SUPER ONE HD
