@@ -580,3 +580,4 @@ http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1,IN: STAR SPORTS 1
 http://103.68.116.50/live/feed1006/index.m3u8
 #EXTINF:-1,IN: STAR SPORTS 1
+http://43.251.86.2:8080/hls/channel_3.m3u8
