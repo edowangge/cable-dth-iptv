@@ -5,7 +5,7 @@ http://51.15.8.16:8081/ind1live/starplususa/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1,ME: STAR BHARAT
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1,ME: STAR PLUS
+#EXTINF:-1,APAC: STAR PLUS
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1,IN: STAR WORLD
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
@@ -577,3 +577,4 @@ http://streamidvo.multitvsolution.in//live//IndiaNews-a//p2.m3u8
 http://178.156.198.68:7612
 #EXTINF:-1,INT: SUPER ONE HD
 http://188.35.9.5:10007/stolen/246r/parasite.install
+#EXTINF:-1,IN: STAR SPORTS 1
