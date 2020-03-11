@@ -584,3 +584,4 @@ http://43.251.86.2:8080/hls/channel_3.m3u8
 #EXTINF:-1,PK: PTV SPORTS
 http://43.251.86.2:8080/hls/channel_2.m3u8
 #EXTINF:-1,PK: GTV HD
+http://43.251.86.2:8080/hls/channel_1.m3u8
