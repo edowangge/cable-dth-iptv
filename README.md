@@ -592,3 +592,4 @@ http://185.180.12.90:8080/REDLIGHT/index.m3u8?token=test
 #EXTINF:-1,USA: NEWS NET
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 ,IN: http://www.tv-logo.com/pt-data/uploads/images/logo/aaj_tak_uk.jpg
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
