@@ -588,3 +588,4 @@ http://43.251.86.2:8080/hls/channel_1.m3u8
 #EXTINF:-1,INT: PRIVATE
 http://185.180.12.90:8080/PRIVATE/index.m3u8?token=test
 #EXTINF:-1,INT: REDLIGHT
+http://185.180.12.90:8080/REDLIGHT/index.m3u8?token=test
