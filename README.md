@@ -583,3 +583,4 @@ http://103.68.116.50/live/feed1006/index.m3u8
 http://43.251.86.2:8080/hls/channel_3.m3u8
 #EXTINF:-1,PK: PTV SPORTS
 http://43.251.86.2:8080/hls/channel_2.m3u8
+#EXTINF:-1,PK: GTV HD
