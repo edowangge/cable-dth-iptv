@@ -590,3 +590,4 @@ http://185.180.12.90:8080/PRIVATE/index.m3u8?token=test
 #EXTINF:-1,INT: REDLIGHT
 http://185.180.12.90:8080/REDLIGHT/index.m3u8?token=test
 #EXTINF:-1,USA: NEWS NET
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
