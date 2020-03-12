@@ -595,3 +595,4 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 #EXTINF:-1,INT: SRK
 http://188.35.9.26:5031/udp/058j
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
