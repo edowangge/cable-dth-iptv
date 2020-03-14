@@ -610,3 +610,4 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playli
 https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
 #EXTINF:-1,IN: Bloomberg TV
 https://ch.iptvmate.net/55223f6e32038e5be12628de5464cf0e.m3u8
+#EXTINF:-1,IN: CNBC Awaaz
