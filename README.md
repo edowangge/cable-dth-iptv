@@ -606,3 +606,4 @@ https://delivery.macan.live/stream/hbo/index.m3u8?token=jITBhpqD&v=20200308
 https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8?xtreamiptv.m3u8
 #EXTINF:-1,IN: FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1,IN: CNBC TV18
