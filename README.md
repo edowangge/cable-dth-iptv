@@ -602,5 +602,6 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,ASIA: HBO
 https://delivery.macan.live/stream/hbo/index.m3u8?token=jITBhpqD&v=20200308
-#EXTINF:-1,IN: HDFashion & LifeStyle
+#EXTINF:-1,USA: HDFashion & LifeStyle
 https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,IN: FASHION TV
