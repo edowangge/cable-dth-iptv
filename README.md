@@ -618,3 +618,4 @@ https://ch.iptvmate.net/4ac2dd1a410b37e8357ae8bbac3264c5.m3u8
 https://ch.iptvmate.net/74b9c18d51b3f6ef71af33d28bba81f0.m3u8
 #EXTINF:-1,UK: Venus TV
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
+#EXTINF:-1,IN: News18 Lokmat
