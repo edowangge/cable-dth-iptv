@@ -600,4 +600,5 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvsd/index.m3u8
 #EXTINF:-1,IN: REMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
- #EXTINF:-1,ASIA: HBO
+#EXTINF:-1,ASIA: HBO
+https://delivery.macan.live/stream/hbo/index.m3u8?token=jITBhpqD&v=20200308
