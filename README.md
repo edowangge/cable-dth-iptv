@@ -612,3 +612,4 @@ https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
 https://ch.iptvmate.net/55223f6e32038e5be12628de5464cf0e.m3u8
 #EXTINF:-1,IN: CNBC Awaaz
 https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
+#EXTINF:-1,USA: Bloomberg TV
