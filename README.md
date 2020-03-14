@@ -614,3 +614,4 @@ https://ch.iptvmate.net/55223f6e32038e5be12628de5464cf0e.m3u8
 https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
 #EXTINF:-1,USA: Bloomberg TV
 https://ch.iptvmate.net/4ac2dd1a410b37e8357ae8bbac3264c5.m3u8
+#EXTINF:-1,APAC: Bloomberg TV Australia
