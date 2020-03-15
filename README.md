@@ -622,3 +622,4 @@ https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 #EXTINF:-1,UK: STAR GOLD HD
 http://ndasat.net:8000/live/493093298206867/1593574628/6862.m3u8
+#EXTINF:-1,IN: SONY TV
