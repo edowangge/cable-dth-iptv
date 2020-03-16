@@ -686,3 +686,4 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8?checkedby_iptvcat.com
 #EXTINF:-1,IN: ANIMAL PLANET
 https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby_iptvcat.com
+#EXTINF:-1,PK: DUNYA NEWS
