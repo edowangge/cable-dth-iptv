@@ -681,3 +681,4 @@ http://50.7.89.10:25000/live/nenad/nenad/3007.m3u8?token=TxcOAkVaFgMbUVtUBlZWBFN
 #EXTINF:-1,APAC: ANIMAL PLANET
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: STAR GOLD HD
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
