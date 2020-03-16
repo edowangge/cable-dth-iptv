@@ -691,3 +691,4 @@ http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
 #EXTINF:-1,IN: STAR PLUS HD
 http://ddn.amrbd.com:8081/live/starplus/playlist.m3u8
 #EXTINF:-1,IN: STAR GOLD HD
+http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
