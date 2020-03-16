@@ -687,3 +687,4 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8?checke
 #EXTINF:-1,IN: ANIMAL PLANET
 https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby_iptvcat.com
 #EXTINF:-1,PK: DUNYA NEWS
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
