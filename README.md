@@ -683,3 +683,4 @@ http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN: STAR GOLD HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1,INT: AL JEZARA
+https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8?checkedby_iptvcat.com
