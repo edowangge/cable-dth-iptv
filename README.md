@@ -694,3 +694,4 @@ http://ddn.amrbd.com:8081/live/starplus/playlist.m3u8
 http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
 #EXTINF:-1,IN: SONY SAB
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
+#EXTINF:-1,IN: SONY SIX HD
