@@ -698,3 +698,4 @@ http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
 http://ddn.amrbd.com:8081/live/sonysix/playlist.m3u8
 #EXTINF:-1,RU: RT
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
+#EXTINF:-1,IN: INDIA TV
