@@ -701,3 +701,4 @@ http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
 #EXTINF:-1,IN: INDIA TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
 #EXTINF:-1,USA: MTV
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
