@@ -708,4 +708,5 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 http://tv.b4ucast.me/tv/vJ9lsiZFOE20190929/chunklist_w1028838267_tkaGxzZW5kdGltZT0xNTg0NjE2MDgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9bkN3S2ZnVkhoOXM5b3ppb3phOExuQ2Q1eUIzbXlibkZGWU9OZlBhMjNkWT0=.m3u8
 #EXTINF:-1,IN: STAR SPORTS 1 HD
 http://103.111.120.46/hls/star-sports-1-hd.m3u8
- #EXTINF:-1,UK: MTV
+#EXTINF:-1,UK: MTV
+https://vbkt.ga/MTVMUSIC1
