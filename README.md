@@ -712,3 +712,4 @@ http://103.111.120.46/hls/star-sports-1-hd.m3u8
 https://vbkt.ga/MTVMUSIC1
 #EXTINF:-1,UK: COMEDY CENTRAL
 https://vbkt.ga/CCUK
+#EXTINF:-1,UK: CARTOON NETWORK
