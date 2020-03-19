@@ -713,3 +713,4 @@ https://vbkt.ga/MTVMUSIC1
 #EXTINF:-1,UK: COMEDY CENTRAL
 https://vbkt.ga/CCUK
 #EXTINF:-1,UK: CARTOON NETWORK
+https://vbkt.ga/CN111
