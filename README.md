@@ -710,3 +710,4 @@ http://tv.b4ucast.me/tv/vJ9lsiZFOE20190929/chunklist_w1028838267_tkaGxzZW5kdGltZ
 http://103.111.120.46/hls/star-sports-1-hd.m3u8
 #EXTINF:-1,UK: MTV
 https://vbkt.ga/MTVMUSIC1
+#EXTINF:-1,UK: COMEDY CENTRAL
