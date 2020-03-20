@@ -715,3 +715,4 @@ https://vbkt.ga/CCUK
 #EXTINF:-1,UK: CARTOON NETWORK
 https://vbkt.ga/CN111
 #EXTINF:-1,UK: MTV BASE
+https://vbkt.ga/MTVBase-UK-MPEG2
