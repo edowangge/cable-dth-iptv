@@ -720,4 +720,5 @@ https://vbkt.ga/MTVBase-UK-MPEG2
 https://vbkt.ga/2VN
 #EXTINF:-1,INT: GANGBANG
 http://live.redtraffic.net/gangbang.m3u8
- #EXTINF:-1,IN: STAR SPORTS 1
+#EXTINF:-1,IN: STAR SPORTS 1
+http://43.251.86.2:8080/hls/channel_3.m3u8
