@@ -714,3 +714,4 @@ https://vbkt.ga/MTVMUSIC1
 https://vbkt.ga/CCUK
 #EXTINF:-1,UK: CARTOON NETWORK
 https://vbkt.ga/CN111
+#EXTINF:-1,UK: MTV BASE
