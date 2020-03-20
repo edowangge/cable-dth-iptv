@@ -722,3 +722,4 @@ https://vbkt.ga/2VN
 http://live.redtraffic.net/gangbang.m3u8
 #EXTINF:-1,IN: STAR SPORTS 1
 http://43.251.86.2:8080/hls/channel_3.m3u8
+#EXTINF:-1,PK: PTV SPORTS
