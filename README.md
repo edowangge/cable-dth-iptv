@@ -724,3 +724,4 @@ http://live.redtraffic.net/gangbang.m3u8
 http://43.251.86.2:8080/hls/channel_3.m3u8
 #EXTINF:-1,PK: PTV SPORTS
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+#EXTINF:-1,UK: BET
