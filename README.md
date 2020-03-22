@@ -728,3 +728,4 @@ https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chu
 https://vbkt.ga/bet-uk
 #EXTINF:-1,UK: NICK+1
 https://vbkt.ga/nikkk111
+#EXTINF:-1,USA: AMC
