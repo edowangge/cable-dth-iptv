@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTINF:-1,IN: STAR PLUS#EXTM3U
 #EXTINF:-1,IN: STAR PLUS HD
 http://51.15.8.16:8081/ind1live/starplususa/playlist.m3u8
 #EXTINF:-1,APAC: ZEE TV
@@ -730,3 +730,4 @@ https://vbkt.ga/bet-uk
 https://vbkt.ga/nikkk111
 #EXTINF:-1,USA: AMC
 http://84.22.33.254/unicast.amc/index.m3u8
+#EXTINF:-1,INT: VUNES
