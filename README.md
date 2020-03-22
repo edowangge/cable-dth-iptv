@@ -732,3 +732,4 @@ https://vbkt.ga/nikkk111
 http://84.22.33.254/unicast.amc/index.m3u8
 #EXTINF:-1,INT: VUNES
 http://d2uy4ep1ygc4za.cloudfront.net/a/hls1/venus.m3u8
+#EXTINF:-1,MAL: DISCOVERY ASIA
