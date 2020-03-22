@@ -729,3 +729,4 @@ https://vbkt.ga/bet-uk
 #EXTINF:-1,UK: NICK+1
 https://vbkt.ga/nikkk111
 #EXTINF:-1,USA: AMC
+http://84.22.33.254/unicast.amc/index.m3u8
