@@ -734,3 +734,4 @@ http://84.22.33.254/unicast.amc/index.m3u8
 http://d2uy4ep1ygc4za.cloudfront.net/a/hls1/venus.m3u8
 #EXTINF:-1,MAL: DISCOVERY ASIA
 http://111.13.111.192/125.227.198.89:8028
+#EXTINF:-1,MX: ANIMAL PLANET
