@@ -739,3 +739,4 @@ http://158.69.228.135:8000/////////lenaranez/lenaranez2020xyq/8926
 #EXTINF:-1,PST: CNN
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1,INT: PLAY BOY
+http://nl01.spr24.net/5235/mpegts?token=hiVi8EHiq86NZA
