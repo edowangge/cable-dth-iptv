@@ -736,3 +736,4 @@ http://d2uy4ep1ygc4za.cloudfront.net/a/hls1/venus.m3u8
 http://111.13.111.192/125.227.198.89:8028
 #EXTINF:-1,MX: ANIMAL PLANET
 http://158.69.228.135:8000/////////lenaranez/lenaranez2020xyq/8926
+#EXTINF:-1,PST: CNN
