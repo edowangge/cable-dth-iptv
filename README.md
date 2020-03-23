@@ -747,3 +747,4 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sour
 #EXTINF:-1,USA: CBS NEWS
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
 #EXTINF:-1,INT: BBC NEWS
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
