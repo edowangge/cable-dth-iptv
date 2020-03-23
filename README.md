@@ -743,3 +743,4 @@ http://nl01.spr24.net/5235/mpegts?token=hiVi8EHiq86NZA
 #EXTINF:-1,USA: CBSN
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 #EXTINF:-1,USA: BLOOMBERG TV
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
