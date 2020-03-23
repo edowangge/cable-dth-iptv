@@ -740,4 +740,5 @@ http://158.69.228.135:8000/////////lenaranez/lenaranez2020xyq/8926
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1,INT: PLAY BOY
 http://nl01.spr24.net/5235/mpegts?token=hiVi8EHiq86NZA
-#EXTINF:-1,USA: CBSE
+#EXTINF:-1,USA: CBSN
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
