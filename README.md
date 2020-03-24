@@ -752,3 +752,4 @@ https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 http://51.52.156.22:8888/http/003
 #EXTINF:-1,INT: SEX HOT
 http://177.107.49.211:8000/play/a01a/index.m3u8
+#EXTINF:-1,IN: HUSTLER HD
