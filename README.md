@@ -757,3 +757,4 @@ http://177.107.49.211:8000/play/a01a/index.m3u8
 https://vbkt.ga/MTV_OMG
 #EXTINF:-1,UK: CBS
 https://vbkt.ga/CBS-DramaUK
+#EXTINF:-1,ME: COLORS TV
