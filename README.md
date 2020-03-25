@@ -759,3 +759,4 @@ https://vbkt.ga/MTV_OMG
 https://vbkt.ga/CBS-DramaUK
 #EXTINF:-1,ME: COLORS TV
 http://1784075063.rsc.cdn77.org/1784075063/index.m3u8
+#EXTINF:-1,IN: STAR PLUS
