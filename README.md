@@ -766,3 +766,4 @@ https://vbkt.ga/TraceVAULT
 #EXTINF:-1,UK: SONYCRIME
 https://vbkt.ga/SONYCRIME
 #EXTINF:-1,IN: SONY TV HD
+http://51.79.84.156:2500/HIN_sonytv/index.m3u8
