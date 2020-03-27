@@ -775,3 +775,4 @@ http://210.210.155.66/h/h07/01.m3u8
 http://fr01.spr24.net/1931/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1,ASIA: FOX SPORTS
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
+#EXTINF:-1,ASIA: FOX CRIME
