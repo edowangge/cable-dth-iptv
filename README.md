@@ -768,3 +768,4 @@ https://vbkt.ga/SONYCRIME
 #EXTINF:-1,IN: SONY TV HD
 http://51.79.84.156:2500/HIN_sonytv/index.m3u8
 #EXTINF:-1,ASIA: FOX LIFE
+https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
