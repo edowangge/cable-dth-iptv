@@ -759,4 +759,5 @@ https://vbkt.ga/MTV_OMG
 https://vbkt.ga/CBS-DramaUK
 #EXTINF:-1,ME: COLORS TV
 http://1784075063.rsc.cdn77.org/1784075063/index.m3u8
-#EXTINF:-1,IN: STAR PLUS
+#EXTINF:-1,INT: FASISON TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
