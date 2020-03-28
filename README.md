@@ -777,3 +777,4 @@ http://fr01.spr24.net/1931/mpegts?token=rCEqTFvRhtEvXt
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1,ASIA: FOX CRIME
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
+#EXTINF:-1,APAC: DISCOVERY ASIA
