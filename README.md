@@ -787,3 +787,4 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,UK: WWE
 https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1,USA: WWE
