@@ -799,3 +799,4 @@ https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=Yq91Jdf0&v=2020
 https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,MAL: BIEN SPORTS
 https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1,MAL: BOOMERANG
