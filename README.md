@@ -780,3 +780,4 @@ https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 #EXTINF:-1,APAC: DISCOVERY ASIA
 http://111.13.111.192/125.227.198.89:8028
 #EXTINF:-1,INT: ADULT TV
+https://usb.bozztv.com/ssh101/TBB1/TBB1/index.m3u8
