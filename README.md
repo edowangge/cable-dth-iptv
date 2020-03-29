@@ -790,3 +790,4 @@ https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=Yq91Jdf0&v=20
 #EXTINF:-1,USA: WWE
 https://peer3.ustv.to/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDIwIDM6MjI6MTQgQU0maGFzaF92YWx1ZT1mNGV0SFl5NGJXeFhUMVVnalV4bXRRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
 #EXTINF:-1,UK: PASS TV
+https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=Yq91Jdf0&v=20200308
