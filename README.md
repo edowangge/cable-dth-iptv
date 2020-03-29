@@ -792,3 +792,4 @@ https://peer3.ustv.to/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8
 #EXTINF:-1,UK: PASS TV
 https://delivery.macan.live/stream/macan_sport_41/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,MAL: STAR CRICKET
+https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=Yq91Jdf0&v=20200308
