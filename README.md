@@ -856,3 +856,4 @@ http://ddn.amrbd.com:8081/live/starmovies/playlist.m3u8
 #EXTINF:-1,IN: STAR SPORTS 1
 http://ddn.amrbd.com:8081/live/starsports1/playlist.m3u8
 #EXTINF:-1,IN: STAR SPORTS 2
+http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
