@@ -813,3 +813,4 @@ http://cdn.fr01.spr24.net/5880/mono.m3u8?token=hiVi8EHiq86NZA
 http://cdn.fr01.spr24.net/22444/mono.m3u8?token=hiVi8EHiq86NZA
 #EXTINF:-1,MAL: STAR SPORTS
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+#EXTINF:-1,IN: STAR SPORTS 1 HD
