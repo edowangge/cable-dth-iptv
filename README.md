@@ -807,3 +807,4 @@ https://delivery.macan.live/stream/hbo/index.m3u8?token=Yq91Jdf0&v=20200308
 http://185.59.223.82:8080/vh1/mpegts
 #EXTINF:-1,UK: FREE SPORTS
 https://vbkt.ga/freesportsuk
+#EXTINF:-1,INT: PINK TV
