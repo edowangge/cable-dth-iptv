@@ -858,3 +858,4 @@ http://ddn.amrbd.com:8081/live/starsports1/playlist.m3u8
 #EXTINF:-1,IN: STAR SPORTS 2
 http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
 #EXTINF:-1,ID: NAT GEO WILD
+https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=Yq91Jdf0&v=20200308
