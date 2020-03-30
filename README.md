@@ -833,3 +833,4 @@ https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
 https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
 #EXTINF:-1,MAL: FX
 https://cdn-laos.workpoint.news/hd-fx_720/index.m3u8
+#EXTINF:-1,MAL: FOX CRIME
