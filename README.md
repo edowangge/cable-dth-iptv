@@ -852,3 +852,4 @@ http://gg.gg/lvttaxn1
 #EXTINF:-1,INT: BBC WORLD NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1,ME: STAR MOVIES
+http://ddn.amrbd.com:8081/live/starmovies/playlist.m3u8
