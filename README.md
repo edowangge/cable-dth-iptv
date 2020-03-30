@@ -841,3 +841,4 @@ https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
 #EXTINF:-1,MAL: NAT GEO PEOPLE
 https://cdn-laos.workpoint.news/hd-natgeopeople_720/index.m3u8
+#EXTINF:-1,MAL: DISCOVERY ASIA
