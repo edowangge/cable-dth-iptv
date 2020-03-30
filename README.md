@@ -824,3 +824,4 @@ http://175.41.46.16:8081/hls/6.m3u8
 #EXTINF:-1,IN: SONY TEN 2 HD
 http://175.41.46.16:8081/hls/7.m3u8
 #EXTINF:-1,IN: SONY TEN 3 HD
+http://175.41.46.16:8081/hls/8.m3u8
