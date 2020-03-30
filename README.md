@@ -808,3 +808,4 @@ http://185.59.223.82:8080/vh1/mpegts
 #EXTINF:-1,UK: FREE SPORTS
 https://vbkt.ga/freesportsuk
 #EXTINF:-1,INT: PINK TV
+http://cdn.fr01.spr24.net/5880/mono.m3u8?token=hiVi8EHiq86NZA
