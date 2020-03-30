@@ -849,4 +849,5 @@ https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 #EXTINF:-1,UK: AXN
 http://gg.gg/lvttaxn1
-#EXTINF:-1,MAL: DISNEY CHANNEL
+#EXTINF:-1,INT: BBC WORLD NEWS
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
