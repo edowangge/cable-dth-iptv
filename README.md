@@ -802,3 +802,4 @@ https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=Yq91Jdf0&v=20
 #EXTINF:-1,MAL: BOOMERANG
 https://delivery.macan.live/stream/boomerang/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,MAL: HBO
+https://delivery.macan.live/stream/hbo/index.m3u8?token=Yq91Jdf0&v=20200308
