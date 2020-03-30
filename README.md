@@ -849,3 +849,4 @@ https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 #EXTINF:-1,UK: AXN
 http://gg.gg/lvttaxn1
+#EXTINF:-1,MAL: DISNEY CHANNEL
