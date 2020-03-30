@@ -815,3 +815,4 @@ http://cdn.fr01.spr24.net/22444/mono.m3u8?token=hiVi8EHiq86NZA
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1,IN: STAR SPORTS 1 HD
 http://175.41.46.16:8081/hls/1.m3u8
+#EXTINF:-1,IN: SONY SIX HD
