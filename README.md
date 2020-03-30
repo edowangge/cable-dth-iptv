@@ -844,3 +844,4 @@ https://cdn-laos.workpoint.news/hd-natgeopeople_720/index.m3u8
 #EXTINF:-1,MAL: DISCOVERY ASIA
 https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
 #EXTINF:-1,MAL: FOX LIFE
+https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
