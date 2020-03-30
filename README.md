@@ -830,3 +830,4 @@ http://175.41.46.16:8081/hls/10.m3u8
 #EXTINF:-1,INT: Al Jazeera
 https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
 #EXTINF:-1,MAL: AXN
+https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
