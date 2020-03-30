@@ -853,4 +853,5 @@ http://gg.gg/lvttaxn1
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1,ME: STAR MOVIES
 http://ddn.amrbd.com:8081/live/starmovies/playlist.m3u8
-#EXTINF:-1,ME: STAR SPORTS 1
+#EXTINF:-1,IN: STAR SPORTS 1
+http://ddn.amrbd.com:8081/live/starsports1/playlist.m3u8
