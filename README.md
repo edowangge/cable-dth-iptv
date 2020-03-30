@@ -804,3 +804,4 @@ https://delivery.macan.live/stream/boomerang/index.m3u8?token=Yq91Jdf0&v=2020030
 #EXTINF:-1,MAL: HBO
 https://delivery.macan.live/stream/hbo/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,USA: VH1
+http://185.59.223.82:8080/vh1/mpegts
