@@ -835,3 +835,4 @@ https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-fx_720/index.m3u8
 #EXTINF:-1,MAL: FOX CRIME
 https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
+#EXTINF:-1,MAL: NAT GEO WILD
