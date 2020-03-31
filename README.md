@@ -861,3 +861,4 @@ http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
 https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,UK: START TIME
 https://v-pi.mybtv.net/event/17.2/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
+#EXTINF:-1,IN: SONY TEN 1 HD
