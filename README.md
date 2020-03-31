@@ -886,3 +886,4 @@ https://vbkt.ga/HBO
 #EXTINF:-1,ASIA: HBO
 http://iptvfree.gq/live/hbo.m3u8
 #EXTINF:-1,RU: NAT GEO WILD
+http://178.124.183.13/hls/ESCMSBZJ8X/bw1200000/playlist.m3u8
