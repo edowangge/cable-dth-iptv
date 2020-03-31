@@ -876,3 +876,4 @@ https://usb.bozztv.com/ssh101/BoomerangDCN/BoomerangDCN/playlist.m3u8
 #EXTINF:-1,USA: BOOMERANG
 http://proxyts.ec.cx:8082/hls1/boomerang.m3u8?wmsAuthSign
 #EXTINF:-1,UK: BOOMERANG
+http://178.159.5.210:1000/play/Boomerang/index.m3u8
