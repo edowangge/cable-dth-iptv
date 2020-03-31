@@ -875,3 +875,4 @@ http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist
 https://usb.bozztv.com/ssh101/BoomerangDCN/BoomerangDCN/playlist.m3u8
 #EXTINF:-1,USA: BOOMERANG
 http://proxyts.ec.cx:8082/hls1/boomerang.m3u8?wmsAuthSign
+#EXTINF:-1,UK: BOOMERANG
