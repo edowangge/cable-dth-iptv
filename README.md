@@ -893,3 +893,4 @@ http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 https://delivery.macan.live/stream/I'd_discoverychannel/index.m3u8?token=Yq91Jdf0&v=20200308
 #EXTINF:-1,RU: DISCOVERY CHANNEL
 http://185.22.183.147:8085/media/hls_183_147/discovery/index.m3u8
+#EXTINF:-1,JP: NHK WORLD
