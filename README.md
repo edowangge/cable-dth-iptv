@@ -888,3 +888,4 @@ http://iptvfree.gq/live/hbo.m3u8
 #EXTINF:-1,RU: NAT GEO WILD
 http://178.124.183.13/hls/ESCMSBZJ8X/bw1200000/playlist.m3u8
 #EXTINF:-1,IN: NAT GEO
+http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
