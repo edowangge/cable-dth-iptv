@@ -879,3 +879,4 @@ http://proxyts.ec.cx:8082/hls1/boomerang.m3u8?wmsAuthSign
 http://178.159.5.210:1000/play/Boomerang/index.m3u8
 #EXTINF:-1,UK: Boston 25 News (WFXT)
 https://ch.iptvmate.net/6b2e4d0c46578a2d1087181cc07ccc75.m3u8
+#EXTINF:-1,ASIA: NAT GEO
