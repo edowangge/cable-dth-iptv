@@ -871,3 +871,4 @@ http://78.110.169.226:8000/play/a021
 https://vbkt.ga/5hj
 #EXTINF:-1,IN: AAJ TAK
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
+#EXTINF:-1,EU: BOOMERANG
