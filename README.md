@@ -865,3 +865,4 @@ https://v-pi.mybtv.net/event/17.2/640x480?start_time=2019-12-11T20%3A45%3A00.000
 https://joey.vbkt.ga/LiveApp/streams/603668652894062794141419.m3u8
 #EXTINF:-1,UK: ComedyCentral
 http://78.110.169.226:8000/play/a01m
+#EXTINF:-1,UK: CARTOON NETWORK
