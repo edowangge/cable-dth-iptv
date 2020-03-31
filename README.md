@@ -891,3 +891,4 @@ http://178.124.183.13/hls/ESCMSBZJ8X/bw1200000/playlist.m3u8
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 #EXTINF:-1,ID: DISCOVERY CHANNEL
 https://delivery.macan.live/stream/I'd_discoverychannel/index.m3u8?token=Yq91Jdf0&v=20200308
+#EXTINF:-1,RU: DISCOVERY CHANNEL
