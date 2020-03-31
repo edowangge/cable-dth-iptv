@@ -897,3 +897,4 @@ http://185.22.183.147:8085/media/hls_183_147/discovery/index.m3u8
 http://210.210.155.66/h/h23/02.m3u8
 #EXTINF:-1,MAL: KIK
 http://210.210.155.66/h/h07/01.m3u8
+#EXTINF:-1,ASIA: BLOOMBERG
