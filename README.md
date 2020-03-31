@@ -873,3 +873,4 @@ https://vbkt.ga/5hj
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
 #EXTINF:-1,EU: BOOMERANG
 https://usb.bozztv.com/ssh101/BoomerangDCN/BoomerangDCN/playlist.m3u8
+#EXTINF:-1,RU: BOOMERANG
