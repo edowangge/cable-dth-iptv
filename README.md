@@ -895,3 +895,4 @@ https://delivery.macan.live/stream/I'd_discoverychannel/index.m3u8?token=Yq91Jdf
 http://185.22.183.147:8085/media/hls_183_147/discovery/index.m3u8
 #EXTINF:-1,JP: NHK WORLD
 http://210.210.155.66/h/h23/02.m3u8
+#EXTINF:-1,MAL: KIK
